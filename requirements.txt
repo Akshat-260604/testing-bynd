@@ -1,0 +1,8 @@
+# Minimal production dependencies
+numpy
+opencv-python
+pytesseract
+tqdm
+openai
+lxml
+python-dotenv

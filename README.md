@@ -1,1 +1,1 @@
-# testing-bynd
+# bynd_test
